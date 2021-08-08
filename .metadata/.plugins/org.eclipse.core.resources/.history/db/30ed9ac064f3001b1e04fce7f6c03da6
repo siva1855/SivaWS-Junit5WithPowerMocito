@@ -1,0 +1,9 @@
+package com.siva.test;
+
+import com.siva.bean.Calculator;
+
+public class CalculatorTest {
+	
+	private static Calculator calculator=null;
+
+}

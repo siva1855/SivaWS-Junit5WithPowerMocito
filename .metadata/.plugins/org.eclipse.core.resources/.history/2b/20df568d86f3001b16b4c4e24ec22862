@@ -1,0 +1,15 @@
+package com.siva.testcase;
+
+import static org.junit.Assert.assertThrows;
+import static org.junit.Assert.assertTrue;
+
+import com.siva.logic.StringUtils;
+
+public class StringUtilsTest {
+	
+	public void testStringConvertToInt() {
+		String str="siva";
+		assertThrows(IllegalArgumentException.class, ()->StringUtils.stringconvertToInt(str));
+	}
+
+}

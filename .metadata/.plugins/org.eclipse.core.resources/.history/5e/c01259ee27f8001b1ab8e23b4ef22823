@@ -1,0 +1,10 @@
+package com.siva.rest.testcase;
+
+import org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTest;
+
+import com.siva.restcontroller.WelcomeRestController;
+
+@WebMvcTest(value=WelcomeRestController.class)
+public class WelcomeRestControllerTest {
+
+}

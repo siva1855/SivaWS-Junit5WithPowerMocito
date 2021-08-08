@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="D:\JavaWorkSpaces\SivaWS-Junit5WithPowerMocito\08-SpringBootRestCodeCoverageJacoco"/>
+			<item value="D:\JavaWorkSpaces\SivaWS-Junit5WithPowerMocito\06-SB-REST-JUnit-App"/>
+			<item value="C:\Users\sivam\Downloads\05-JUnit-Power-Mockito-App"/>
+			<item value="D:\JavaWorkSpaces\SivaWS-Junit5WithPowerMocito\03-Junit5-CSV-Parameterized-Test-App"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="D:\JavaWorkSpaces\SivaWS-Junit5WithPowerMocito\06-Junit5PowerMocitoTest"/>
+			<item value="D:\JavaWorkSpaces\SivaWS-Junit5WithPowerMocito\05-Junit5ExceptionTest"/>
+			<item value="D:\JavaWorkSpaces\SivaWS-Junit5WithPowerMocito\04-Junit5CSVParameterizedTest"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="com.siva"/>
+		</list>
+		<list key="name">
+			<item value="03-Junit5ParameterizedTest"/>
+			<item value="06-Junit5PowerMocitoTest"/>
+			<item value="05-Junit5ExceptionTest"/>
+		</list>
+		<list key="artifactId">
+			<item value="03-Junit5ParameterizedTest"/>
+			<item value="06-Junit5PowerMocitoTest"/>
+			<item value="05-Junit5ExceptionTest"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>
