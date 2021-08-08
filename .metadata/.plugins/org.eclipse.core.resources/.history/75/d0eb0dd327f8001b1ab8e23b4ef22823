@@ -1,5 +1,0 @@
-package com.siva.rest.testcase;
-
-public class WelcomeRestControllerTest {
-
-}

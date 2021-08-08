@@ -1,5 +1,0 @@
-package com.siva.daoimpl;
-
-public class UserDAOImpl {
-
-}

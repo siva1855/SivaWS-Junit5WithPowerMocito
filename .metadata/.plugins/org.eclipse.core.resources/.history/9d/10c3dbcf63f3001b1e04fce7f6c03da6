@@ -1,8 +1,0 @@
-package com.siva.bean.test;
-
-public class MainApp {
-	public static void main(String[] args) {
-		Calcutor calculator=new Calculator();
-	}
-
-}
